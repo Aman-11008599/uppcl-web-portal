@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import Slideshow from "@/components/slideshow/Slideshow";
+import Marquee from "@/components/marquee/Marquee";
 
 export default function HomePage() {
   const slidesDir = path.join(process.cwd(), "public/slides");
@@ -16,6 +17,7 @@ export default function HomePage() {
   return (
     <main>
       <Slideshow slides={slides} />
+      <Marquee />
     </main>
   );
 }
