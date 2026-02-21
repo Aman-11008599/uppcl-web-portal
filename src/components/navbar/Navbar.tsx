@@ -115,8 +115,8 @@ export default function Navbar() {
                         About UPPCL
                       </a>
                       <ul className="dropdown-menu">
-                        <li><Link className="dropdown-item" href="#">Introduction</Link></li>
-                        <li><Link className="dropdown-item" href="#">Mission / Vision Statement</Link></li>
+                        <li><Link className="dropdown-item" href="/about-uppcl/introduction">Introduction</Link></li>
+                        <li><Link className="dropdown-item" href="/about-uppcl/mission-vision">Mission / Vision Statement</Link></li>
                         <li><Link className="dropdown-item" href="#">Organisation Structure</Link></li>
                         <li><Link className="dropdown-item" href="#">Role / Functions / Responsibilities</Link></li>
                         <li><Link className="dropdown-item" href="#">Agencies under Administrative Control</Link></li>
