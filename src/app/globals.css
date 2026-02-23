@@ -2,11 +2,30 @@
    TOP BLUE NAVBAR (UPPCL)
 ===================================================== */
 
+body {
+  padding-top: 122px;
+}
+
+/* use to fix the navbar while scrolling */
+.new-nav-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1200;
+}
+
 .top-nav {
   background-color: #0b5aa2;
   padding: 3px 0;
   font-size: 13px;
   color: #ffffff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 32px;         
+  z-index: 1300;
 }
 
 .top-nav .nav {
@@ -51,6 +70,11 @@
 .logo-section {
   background: #ffffff;
   border-bottom: 1px solid #ddd;
+  position: fixed;
+  top: 32px;           
+  left: 0;
+  width: 100%;
+  z-index: 1250;
 }
 
 .logo-section .navbar {
