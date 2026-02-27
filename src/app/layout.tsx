@@ -6,17 +6,31 @@ import Navbar from "@/components/navbar/Navbar";
 import Slideshow from "@/components/slideshow/Slideshow";
 
 
+// export default function RootLayout({
+//   children,
+// }: {
+//   children: React.ReactNode;
+// }) {
+//   return (
+//     <html lang="en">
+//       <body>
+//         <Navbar />
+//         {children}
+        
+//       </body>
+//     </html>
+//   );
+// }
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html>
       <body>
-        <Navbar />
         {children}
-        
       </body>
     </html>
   );

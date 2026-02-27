@@ -1,0 +1,227 @@
+{
+    "home": {
+    "title": "Uttar Pradesh Power Corporation Limited",
+    "welcome": "Welcome to the official website of UPPCL.",
+    "latestNews": "Latest News: Power supply updates available now."
+  },
+    "navbar": {
+    "home": "Home",
+    "screenReader": "Screen Reader Access",
+    "skipContent": "Skip to Main Content",
+    "sitemap": "Sitemap",
+    "outsourcedPortal": "Outsource Karmi Portal",
+    "languageSwitch": "हिंदी संस्करण",
+    "vbts": "VBTS",
+    "about": {
+      "title": "About UPPCL",
+      "introduction": "Introduction",
+      "missionVision": "Mission / Vision Statement",
+      "organizationStructure": "Organisation Structure",
+      "role": "Role / Functions / Responsibilities",
+      "agencies": "Agencies under Administrative Control"
+    },
+    "actRules": {
+      "title": "Act & Rules",
+      "acts": "Acts",
+      "rules": "Rules",
+      "policy": "Policy",
+      "publicNotice": {
+        "title": "Public Notice",
+        "case1": "Case1 & Case2"
+      },
+      "orders": {
+        "title": "Orders",
+        "circular": "Circular",
+        "officeOrders": "Office Orders",
+        "sportsOrder": "Sports Order"
+      },
+      "tax": "Corporate Tax and GST",
+      "cyber": "Cyber Security",
+      "supplyCode": "Supply Code"
+    },
+    "investors": {
+      "title": "Investors",
+      "financial": "Financial Information",
+      "informationLodr":"Information as required under Regulation 51 1 & 2 of SEBI (LODR) Regulations",
+      "disclosuresLodr": "Disclosures under Regulation 62 of SEBI (LODR) Regulations",
+      "policies": "Policies",
+      "iepfDetails": "IEPF Details",
+      "noticeTds": "Notice Regarding TDS on Bond & Exemption certificate",
+      "financialInfo": "Financial Information",
+      "annualReport": "Annual Report",
+      "board": "Board of Directors & KMP",
+      "noticeTan": "Notice for Change in TAN",
+      "investorsGrievances": "Contact Details For TDS And Investors Grievances Related Queries"
+    },
+    "tenders": {
+      "title": "Tenders",
+      "tenders": "Tenders",
+      "blacklist": "Black List Company",
+      "cancellationAgreement": "Cancellation  of Agreement",
+      "withdrawalBlackListed": "Withdrawal from Black Listed",
+      "stayOrder":"Stay Order (Black Listed Company)",
+      "BaningBlackListed":"Banning for participating in the invited Tenders/Business Dealing"
+    },
+    "DocumentsReports":{
+      "title": "Documents/Reports",
+      "safeguardGuidelines": "Social and Environment safeguard guidelines",
+      "progressReport": "New Connection Progress Report",
+      "MgtInfoSystem": "Management Information System",
+      "forms": "Forms",
+      "downloadForms": "Download Form",
+      "Statistics":"Statistics at a Glance",
+      "ACR": "ACR Proforma"
+    },
+    "rti": "RTI",
+    "vacancy": "Vacancy/Results",
+    "contact": {
+      "title": "Contact Us",
+      "reach": "Reach Us",
+      "hq": "Headquarter / Discom",
+      "vigilanceTeam": "Vigilance Team and Police Stations",
+      "government": "Government",
+      "discoms": {
+        "title": "Discoms",
+        "dvvnl": "DVVNL",
+        "kesco": "KESCO",
+        "mvvnl": "MVVNL",
+        "pvvnl": "PVVNL",
+        "puvvnl": "PuVVNL"
+      },
+      "usefulLinks": "Useful  Links",
+      "feedback": "Feedback",
+      "faq": "Frequently asked questions"
+    }
+  },
+
+  "introductionPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "about": "About UPPCL",
+      "current": "Introduction"
+    },
+    "title": "INTRODUCTION",
+    "content": {
+      "paragraphs": [
+        "UPPCL will be professionally managed utility supplying reliable and cost efficient electricity to every citizen of the state through highly motivated employees and state of art technologies, providing an economic return to our owners and maintaining leadership in the country.",
+        "We shall achieve this being a dynamic, forward looking, reliable, safe and trustworthy organization, sensitive to our customers interests, profitable and sustainable in the long run, providing uninterrupted supply of quality power, with transparency and integrity in operation:"
+      ],
+      "sections": [
+        {
+          "heading": "TO OUR CONSUMERS :",
+          "texts": [
+            "High productivity reflected in a fair, equitable and cost based tariff across consumer categories, accurate and timely billing on a rational, comprehensible billing basis reflecting actual consumption, and convenient system for payment of dues. Simple and well-advertised procedures, guaranteed connection of requested load within reasonable time, prompt breakdown attendance, and efficient complaint handling.",
+            "Timely actions based on anticipation of the future & perspective planning, and clear communication on customer issues."
+          ]
+        },
+        {
+          "heading": "TO OUR SHAREHOLDERS :",
+          "texts": [
+            "A secure and well managed asset, corporate governance in line with Kumar Mangalam Birla Committee recommendations, a business growing organically and through diversification, and satisfied stakeholders."
+          ]
+        },
+        {
+          "heading": "TO OUR EMPLOYEES :",
+          "texts": [
+            "Opportunities for career growth and development, pride in the organization, and a sense of belongingness, with the ability to contribute to the organization. Well defined service conditions and full compliance with labour laws. Accountability and responsibility for actions including performance incentives based on fair and transparent assessment and compensation in line with the best in the industry, and an increased sense of security based on the increased success of the organization."
+          ]
+        },
+        {
+          "heading": "TO OUR REGULATOR :",
+          "texts": [
+            "The equitable satisfaction of all stakeholders, ensuring the long-term stability of the section and an adherence to regulations and guidelines issued by the regulator, including inter alias compliance with license conditions, furnishing accurate and timely information, ensuring techno-economic feasibility of investments, and an effective consumer grievance redressed systems."
+          ]
+        },
+        {
+          "heading": "TO OUR FINANCIAL INSTITUTIONS :",
+          "texts": [
+            "Sustained growth and profitability, sound economic appraisal of projects to be undertaken, security of loan and timely servicing of debts, and timely publication of audited financial statements, including sound accounting & financial practice in accordance with law."
+          ]
+        },
+        {
+          "heading": "TO OUR STATE GOVERNMENT :",
+          "texts": [
+            "Implementation of reform legislation and of all government policies and directives as far as is practical, applying public funding and subsidies to the intended category of consumers. Compliance with the rule of law and electrical safety rules. The satisfaction of stakeholders.",
+            "In return government will assist us by ensuring law and order and enforcement and assistance with revenue realization."
+          ]
+        },
+        {
+          "heading": "TO OUR SUPPLIERS :",
+          "texts": [
+            "Transparent and efficient procedures for tendering and timely ordering and settlement in adherence with commercial agreements."
+          ]
+        },
+        {
+          "heading": "TO OUR UTILITIES :",
+          "texts": [
+            "Reliable and secure system operations in accordance with grid code, 0.2 class metering, and timely readings, an Integrated Information system to provide fast and accurate interface data, timely settlement observing proper commercial agreements between entities, and adherence to system operating procedures in terms of merit order dispatch, security, etc."
+          ]
+        },
+        {
+          "heading": "TO OUR PUBLIC :",
+          "texts": [
+            "Effective communication of policies and procedures, a reliable supply to essential public services, enforcing adequate safety norms and environmental and social norms, minimizing inconvenience dare to disruptions etc."
+          ]
+        }
+      ],
+      "additionalParagraphs": [
+        "We shall be a diversified business with a core function of providing quality, uninterrupted power, commercial focus considering all techno-economic issues of investments, and a high level of consumer service with new connections on demand and low complaint resolution times. Diversifications shall include optic fiber based activities, consultancy, manufacture, and repairs, and we shall have a diversified investment portfolio around the globe.",
+        "We shall satisfy all stakeholders including the regulator.",
+        "We shall be a global industry Leader working in close cooperation with other utilities supporting self-sustained growth through financially viable business units and technological leadership, providing a world class cost of supply, and world class profits, doubling turnover every 5 years. We shall function independently; implementing prudent safety and environment norms, with a cost of supply based tariff, without external interference, in a transparent corruption free operating environment, in compliance with statutory requirements. We shall add value to our shareholders, safeguard the environment, and maintain our asset base. We shall maintain a strong image with the general public.",
+        "We shall measure success on global standards, e.g."
+      ],
+      "performanceTable": {
+        "headers": ["Parameter", "Measurement"],
+        "rows": [
+          { "parameter": "Reliability of supply", "value": "99.50%" },
+          { "parameter": "Technical losses", "value": "10%" },
+          { "parameter": "Commercial losses", "value": "2%" },
+          { "parameter": "Collection efficiency", "value": "97%" },
+          { "parameter": "Billing efficiency", "value": "100%" },
+          { "parameter": "Employee cost", "value": "25 p/u" }
+        ]
+      },
+      "closingParagraphs": [
+        "We shall have a Long-term dynamic vision based on strong perspective planning. We shall have sophisticated procedures including online billing, online queries and e-Business functions.",
+        "We shall have the most motivated, Satisfied and best-trained employees with full competence in all key areas optimally deployed and the most satisfied customers in the sector.",
+        "Our Supply quality shall be: 2% variation in voltage and 0.5 Hz variation in frequency, with Fault repairs in 1 to 2 hours and redressal of 100% and new connections will be made on demand."
+      ]
+    }
+  },
+
+  "missionVisionPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "about": "About UPPCL",
+      "current": "Mission / Vision Statement"
+    },
+    "title": "Mission / Vision Statement",
+    "sections": [
+      {
+        "heading": "The goal of the Uttar Pradesh Power Sector Reform programme is to:",
+        "points": [
+          "Provide cost efficient good quality electricity to all categories of consumers for economic development/social uplift of the State.",
+          "Make the energy sector commercially viable so that it ceases to be burden on the state budget.",
+          "Protect the investment of the consumers."
+        ]
+      },
+      {
+        "heading": "Keeping in view the above mentioned goals, the Government of Uttar Pradesh has agreed on the following key aspects of the Power Sector Reform Programme:",
+        "points": [
+          "Restructuring of Uttar Pradesh State Electricity Board (UPSEB) into autonomous and separately accountable entities.",
+          "Creation of an Independent Regulatory Body to protect consumers as well as long term financial health of the Power Sector.",
+          "Ultimate transfer of ownership of the assets to public corporate entities over a phased time schedule.",
+          "Rationalization of tariff."
+        ]
+      },
+      {
+        "heading": "Reforms-Phase I (Corporation): With the increasing volume of activities and specialisation in the field of Generation, Transmission and Distribution, it has become essential to run them as separate profit centres. These profit centres would subsequently be corporatised by establishing following entities:",
+        "points": [
+          "Thermal Generation Corporation",
+          "Hydro Generation Corporation",
+          "Transmission and Distribution Corporation"
+        ]
+      }
+    ]
+  }
+  }
