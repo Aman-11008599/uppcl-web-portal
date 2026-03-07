@@ -223,5 +223,13 @@
         ]
       }
     ]
+  },
+
+  "marquee": {
+    "messages": [
+      "To avail the benefits of PM Surya Ghar Free Electricity Scheme, download PM Surya Ghar APP from Play Store and APPLY on it.",
+      "Dear Consumer, Bill Payment, Electricity Supply information is sent to you by the Electricity Department only from the UPPCLT-S / UPPCLA-S / ISSPLN-S / SAICOM-P Header on SMS and from verified green tick account on whatsapp. Discomwise whatsapp no are - MVVNL - 8010924203 / DVVNL - 8010957826 / PuVVNL - 8010968292 / PVVNL - 7859804803 / Kesco - 8287835233. Ignore SMS/whatsapp received from any other source/header. Be aware, Be alert -UPPCL",
+      "Online Payment Helpdesk - For payment done through Billdesk Payment Gateway - Email - payment.uppcl@billdesk.com / Toll Free Number - 9513438004. For payment done through PayU Payment Gateway Email - uppcl.support@payu.in / Toll Free Number - 18002021810"
+    ]
   }
   }
