@@ -1,0 +1,270 @@
+/* =====================================================
+   TOP BLUE NAVBAR (UPPCL)
+===================================================== */
+
+.top-nav {
+  background-color: #0b5aa2;
+  padding: 3px 0;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.top-nav .nav {
+  gap: 0;
+}
+
+.top-nav .nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav .nav-link {
+  padding: 2px 8px;
+  font-size: 13px;
+  color: #fff !important;
+  white-space: nowrap;
+}
+
+.top-nav .nav-link:hover {
+  text-decoration: underline;
+}
+
+.top-nav ul li {
+  border-right: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.top-nav ul li:last-child {
+  border-right: none;
+}
+
+.top-nav input.form-control {
+  height: 26px;
+  font-size: 12px;
+  padding: 2px 6px;
+}
+
+
+/* =====================================================
+   LOGO + MAIN NAVBAR
+===================================================== */
+
+.logo-section {
+  background: #ffffff;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo-section .navbar {
+  padding: 0;
+}
+
+.logo-section .navbar-nav > li > a,
+.logo-section .navbar-nav .nav-link {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 14px;
+  color: #222;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Yellow hover */
+.logo-section .navbar-nav > li:hover > a,
+.logo-section .navbar-nav > li:hover > .nav-link {
+  background-color: #ffc107;
+  color: #000 !important;
+}
+
+
+/* =====================================================
+   DROPDOWNS
+===================================================== */
+
+.logo-section .navbar-nav .dropdown:hover > .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+.logo-section .dropdown-menu {
+  border-radius: 0;
+  margin-top: 0;
+  font-size: 13px;
+  border: 1px solid #ddd;
+}
+
+.logo-section .dropdown-menu .dropdown-item {
+  padding: 6px 14px;
+}
+
+.logo-section .dropdown-menu .dropdown-item:hover {
+  background-color: #ffc107;
+  color: #000;
+}
+
+
+/* =====================================================
+   MULTI LEVEL DROPDOWN
+===================================================== */
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  display: none;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu > .dropdown-toggle::after {
+  content: "▸";
+  float: right;
+  margin-left: 6px;
+}
+
+
+/* =====================================================
+   GENERAL LAYOUT
+===================================================== */
+
+.inner-page {
+  background: #f3f3f3;
+  padding-bottom: 40px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* =====================================================
+   BREADCRUMB BAR
+===================================================== */
+
+.breadcrumb-bar {
+  background: #5a6ea8;
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+.breadcrumb-inner {
+  color: #ffffff;
+}
+
+.breadcrumb-inner .active {
+  font-weight: 600;
+}
+
+
+/* =====================================================
+   PAGE HEADER
+===================================================== */
+
+.page-header {
+  background: #ffffff;
+  border-bottom: 3px solid #e6e6e6;
+}
+
+.header-inner {
+  padding: 24px 0;
+}
+
+.page-header h1 {
+  color: #e1006a;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+
+/* =====================================================
+   PAGE CONTENT
+===================================================== */
+
+.page-content {
+  margin-top: 0px;
+}
+
+.content-box {
+  background: #ffffff;
+  padding: 15px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.page-content p,
+.page-content li,
+.page-content td {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #333;
+}
+
+
+/* =====================================================
+   INFO BOXES (Introduction Page)
+===================================================== */
+
+.info-box {
+  background: #f5f5f5;
+  margin: 20px 0;
+  padding: 14px 18px;
+  border-left: 4px solid #f28c28;
+}
+
+.info-box h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #0b3c6f;
+  font-weight: 600;
+}
+
+.info-box p {
+  margin-bottom: 8px;
+}
+
+
+/* =====================================================
+   TABLE (INTRODUCTION PAGE)
+===================================================== */
+
+.table-responsive {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.performance-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+  font-size: 14px;
+}
+
+.performance-table thead th {
+  background-color: #f36c9a;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px 10px;
+  border: 1px solid #e2e2e2;
+  font-weight: 600;
+}
+
+.performance-table tbody td {
+  padding: 12px 14px;
+  border: 1px solid #dddddd;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.performance-table tbody td:first-child {
+  font-weight: 500;
+}
+
+.performance-table tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}

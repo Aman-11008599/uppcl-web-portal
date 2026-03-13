@@ -1,0 +1,31 @@
+.marquee-wrapper {
+	width: 100%;
+	overflow: hidden;
+	background: #fff936;
+	border-top: 1px solid #6d5c5c;
+	border-bottom: 1px solid #6d5c5c;
+	height: 28px;
+	display: flex;
+	align-items: center;
+}
+
+.marquee-text {
+	white-space: nowrap;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+	padding-left: 0;
+	animation-name: marquee;
+	animation-timing-function: linear;
+	animation-fill-mode: forwards;
+}
+
+@keyframes marquee {
+	from {
+		transform: translateX(var(--start));
+	}
+	to {
+		transform: translateX(var(--end));
+	}
+}
+
